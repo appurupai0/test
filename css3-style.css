@@ -1,0 +1,14 @@
+.swiper-container {
+  width: 1200px;
+  max-width: 100%;
+  margin: 0 auto;
+}
+
+.swiper-slide {
+  height: 35vw;
+}
+
+.swiper-slide img {
+  width: 40%;
+  height: auto;
+}
